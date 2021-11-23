@@ -1,0 +1,23 @@
+/*Tratamiento de imagenes insertadas como familia de productos */
+.principal {
+  max-width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  margin: 50px;
+}
+.thumb {
+  max-width: 250px;
+  max-height: 250px;
+  margin: 10px;
+  align-content: center;
+  border: 1px solid rgb(253, 250, 250);
+  border-radius: 10px;
+  box-shadow: 5px 5px;
+}
+.foto {
+  width: 83%;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
